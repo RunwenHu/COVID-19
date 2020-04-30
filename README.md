@@ -15,14 +15,9 @@ We proposed a new COVID-19 diagnosis method by using CNN with ShuffleNet V2 as t
 
 If you find our work useful, please ciet:
 
-@Article{hu2020automated,
-
-  author  = {Runwen Hu, Guanqi Ruan, Shijun Xiang, Minghui Huang, Qiaoyi Liang, Jingxuan Li},
-  
-  title   = {Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT},
-  
-  journal = {medrxiv},
-  
-  year    = {2020},
-  
+@Article{hu2020automated,  
+  author  = {Runwen Hu, Guanqi Ruan, Shijun Xiang, Minghui Huang, Qiaoyi Liang, Jingxuan Li},  
+  title   = {Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT},  
+  journal = {medrxiv},  
+  year    = {2020},  
 }
