@@ -14,6 +14,7 @@ COVID-19 · Chest CT · Deep Learning · Data Augmentation · Noisy Labels
 We proposed a new COVID-19 diagnosis method by using CNN with ShuffleNet V2 as the backbone so as to efficiently distinguish the COVID-19 patients from those who are not infected or infected by other pneumonia (bacterial pneumonia or SARS). 
 
 If you find our work useful, please ciet:
+
 @Article{hu2020automated,
   author  = {Runwen Hu, Guanqi Ruan, Shijun Xiang, Minghui Huang, Qiaoyi Liang, Jingxuan Li},
   title   = {Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT},
